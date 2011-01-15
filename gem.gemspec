@@ -4,9 +4,9 @@ Gem::Specification.new do |s|
   s.name              = "gem"
   s.version           = "0.0.1"
   s.platform          = Gem::Platform::RUBY
-  s.authors           = ["Gonçalo Silva"]
-  s.email             = ["goncalossilva@gmail.com"]
-  s.homepage          = "http://github.com/goncalossilva/gem_template"
+  s.authors           = ["Andrey Samsonov"]
+  s.email             = ["andrey.samsonov@gmail.com"]
+  s.homepage          = "http://github.com/kryzhovnik/gem_template"
   s.summary           = "Sample gem"
   s.description       = "A gem template"
   s.rubyforge_project = s.name
